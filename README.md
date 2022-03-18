@@ -2,7 +2,7 @@
 Learning how to use GitHub
 
 ## About Mary Hauser
-I really **don't** enjoy programming items and my first love is mathematics, not writing/programming
+I really **do** enjoy programming items and my first love is mathematics, not writing/programming
 
 >testing what blockquote does because I have no clue
 
